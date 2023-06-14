@@ -1,0 +1,9 @@
+C:\Users\maks3d12\source\repos\TestMyLibary\ProjectLib\bin\Debug\ProjectLib.dll
+C:\Users\maks3d12\source\repos\TestMyLibary\ProjectLib\bin\Debug\ProjectLib.pdb
+C:\Users\maks3d12\source\repos\TestMyLibary\ProjectLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maks3d12\source\repos\TestMyLibary\ProjectLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maks3d12\source\repos\TestMyLibary\ProjectLib\obj\Debug\ProjectLib.csproj.AssemblyReference.cache
+C:\Users\maks3d12\source\repos\TestMyLibary\ProjectLib\obj\Debug\ProjectLib.csproj.CoreCompileInputs.cache
+C:\Users\maks3d12\source\repos\TestMyLibary\ProjectLib\obj\Debug\ProjectLib.csproj.CopyComplete
+C:\Users\maks3d12\source\repos\TestMyLibary\ProjectLib\obj\Debug\ProjectLib.dll
+C:\Users\maks3d12\source\repos\TestMyLibary\ProjectLib\obj\Debug\ProjectLib.pdb
